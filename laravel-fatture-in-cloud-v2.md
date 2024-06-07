@@ -333,7 +333,7 @@ Each response entity has this prefix on the namespace: `\OfflineAgency\LaravelFa
 | ✅ | Create Payment Account | [![POST method](https://img.shields.io/static/v1.svg?label=&message=POST&color=blue)]() | `Settings\PaymentAccount` |
 | ✅ | Get Payment Account | [![GET method](https://img.shields.io/static/v1.svg?label=&message=GET&color=green)]() | `Settings\PaymentAccount` |
 | ✅ | Modify Payment Account | [![PUT method](https://img.shields.io/static/v1.svg?label=&message=PUT&color=violet)]() | `Settings\PaymentAccount` |
-| ✅ | Delete Payment Account | [![DELETE method](https://img.shields.io/static/v1.svg?label=&message=DELETE&color=red)]() | `'Account deleted'        |
+| ✅ | Delete Payment Account | [![DELETE method](https://img.shields.io/static/v1.svg?label=&message=DELETE&color=red)]() | `'Account deleted'`        |
 | ✅ | Create Vat Type | [![POST method](https://img.shields.io/static/v1.svg?label=&message=POST&color=blue)]() | `Settings\VatType`        |
 | ✅ | Get Vat Type | [![GET method](https://img.shields.io/static/v1.svg?label=&message=GET&color=green)]() | `Settings\VatType`        |
 | ✅ | Modify Vat Type | [![PUT method](https://img.shields.io/static/v1.svg?label=&message=PUT&color=violet)]() | `Settings\VatType`        |
